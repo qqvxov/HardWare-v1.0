@@ -1,0 +1,13 @@
+colorama==0.4.4
+pyTelegramBotAPI==3.7.7
+tk==0.1.0
+pandas==2.2.1
+numpy==1.26.4
+requests==2.31.0
+random2==1.0.2
+sockets==1.0.0
+pywifi==1.1.12
+ttkthemes==3.2.2
+aiohttp==3.9.3
+beautifulsoup4==4.10.0
+pyperclip==1.8.2
